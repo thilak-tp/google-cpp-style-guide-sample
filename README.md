@@ -1,2 +1,3 @@
-# Google C++ Style Guide and my Interpretion, Sample Code and my Opinions on them
+# Google C++ Style Guide 
+## What i learn from it, sample implemention and my opinion
 This repository will contain of what i interpret from the Google C++ style guide with sample code.
